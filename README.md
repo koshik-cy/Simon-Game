@@ -15,7 +15,7 @@ The **Simon Game** is a fun and interactive memory game where the player must re
 - HTML5
 - CSS3
 - JavaScript
-- jQuery (if used in your version)
+- jQuery 
 - Audio for sound effects
 
 
